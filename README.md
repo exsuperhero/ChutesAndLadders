@@ -1,6 +1,6 @@
 # ChutesAndLadders
-#Written by an exsuperhero.
-#March 9, 2016
+Written by an exsuperhero.
+March 9, 2016
 Chutes and Ladders Game
 
 About the Program:
